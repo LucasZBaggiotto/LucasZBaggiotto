@@ -2,7 +2,7 @@
 # Hello! 👋
 ### I am Lucas Baggiotto!
 iOS Developer  
-🍎 Apple Developer Academy | Mackenzie
+Alumini @ 🍎 Apple Developer Academy | Mackenzie
 
 Here are some of the apps I have developed:
 
